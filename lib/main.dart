@@ -16,14 +16,14 @@ class FigmaToCodeApp extends StatelessWidget {
       ),
       home: Scaffold(
         body: ListView(children: [
-          Iphone13ProMax85(),
+          MyApp(),
         ]),
       ),
     );
   }
 }
 
-class Iphone13ProMax85 extends StatelessWidget {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(
