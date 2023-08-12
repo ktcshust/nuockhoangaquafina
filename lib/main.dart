@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
                                 height: 200,
                                 decoration: ShapeDecoration(
                                   image: DecorationImage(
-                                    image: NetworkImage("https://via.placeholder.com/177x200"),
+                                    image: NetworkImage("177x200.png"),
                                     fit: BoxFit.fill,
                                   ),
                                   shape: RoundedRectangleBorder(
@@ -309,7 +309,7 @@ class MyApp extends StatelessWidget {
                                 height: 200,
                                 decoration: ShapeDecoration(
                                   image: DecorationImage(
-                                    image: NetworkImage("https://via.placeholder.com/176x200"),
+                                    image: NetworkImage("176x200.png"),
                                     fit: BoxFit.fill,
                                   ),
                                   shape: RoundedRectangleBorder(
@@ -413,7 +413,7 @@ class MyApp extends StatelessWidget {
                         height: 200,
                         decoration: ShapeDecoration(
                           image: DecorationImage(
-                            image: NetworkImage("https://via.placeholder.com/176x200"),
+                            image: NetworkImage("176x200.png"),
                             fit: BoxFit.fill,
                           ),
                           shape: RoundedRectangleBorder(
@@ -463,7 +463,7 @@ class MyApp extends StatelessWidget {
                                 height: 200,
                                 decoration: ShapeDecoration(
                                   image: DecorationImage(
-                                    image: NetworkImage("https://via.placeholder.com/177x200"),
+                                    image: NetworkImage("177x200.png"),
                                     fit: BoxFit.cover,
                                   ),
                                   shape: RoundedRectangleBorder(
@@ -665,7 +665,7 @@ class MyApp extends StatelessWidget {
                                 height: 200,
                                 decoration: ShapeDecoration(
                                   image: DecorationImage(
-                                    image: NetworkImage("https://via.placeholder.com/177x200"),
+                                    image: NetworkImage("177x200.png"),
                                     fit: BoxFit.fill,
                                   ),
                                   shape: RoundedRectangleBorder(
@@ -835,7 +835,7 @@ class MyApp extends StatelessWidget {
                                 height: 199.84,
                                 decoration: ShapeDecoration(
                                   image: DecorationImage(
-                                    image: NetworkImage("https://via.placeholder.com/177x200"),
+                                    image: NetworkImage("177x200.png"),
                                     fit: BoxFit.fill,
                                   ),
                                   shape: RoundedRectangleBorder(
@@ -1005,7 +1005,7 @@ class MyApp extends StatelessWidget {
                                 height: 199.84,
                                 decoration: ShapeDecoration(
                                   image: DecorationImage(
-                                    image: NetworkImage("https://via.placeholder.com/177x200"),
+                                    image: NetworkImage("177x200.png"),
                                     fit: BoxFit.fill,
                                   ),
                                   shape: RoundedRectangleBorder(
@@ -1115,7 +1115,7 @@ class MyApp extends StatelessWidget {
                   height: 537,
                   decoration: ShapeDecoration(
                     image: DecorationImage(
-                      image: NetworkImage("https://via.placeholder.com/656x537"),
+                      image: NetworkImage("656x537.png"),
                       fit: BoxFit.cover,
                     ),
                     shape: RoundedRectangleBorder(
@@ -1759,7 +1759,7 @@ class MyApp extends StatelessWidget {
                                             height: 164,
                                             decoration: BoxDecoration(
                                               image: DecorationImage(
-                                                image: NetworkImage("https://via.placeholder.com/328x164"),
+                                                image: NetworkImage("328x164.png"),
                                                 fit: BoxFit.fill,
                                               ),
                                             ),
@@ -2202,7 +2202,7 @@ class MyApp extends StatelessWidget {
                           height: 11,
                           decoration: BoxDecoration(
                             image: DecorationImage(
-                              image: NetworkImage("https://via.placeholder.com/15x11"),
+                              image: NetworkImage("15x11.png"),
                               fit: BoxFit.fill,
                             ),
                           ),
@@ -2216,7 +2216,7 @@ class MyApp extends StatelessWidget {
                           height: 10.67,
                           decoration: BoxDecoration(
                             image: DecorationImage(
-                              image: NetworkImage("https://via.placeholder.com/17x11"),
+                              image: NetworkImage("17x11.png"),
                               fit: BoxFit.fill,
                             ),
                           ),
