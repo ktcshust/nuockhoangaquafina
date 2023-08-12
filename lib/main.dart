@@ -197,7 +197,7 @@ class MyApp extends StatelessWidget {
                                 height: 200,
                                 decoration: ShapeDecoration(
                                   image: DecorationImage(
-                                    image: NetworkImage("https://via.placeholder.com/178x200"),
+                                    image: AssetImage("178x200.png"),
                                     fit: BoxFit.fill,
                                   ),
                                   shape: RoundedRectangleBorder(
