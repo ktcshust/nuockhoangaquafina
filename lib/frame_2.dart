@@ -26,7 +26,7 @@ class Frame1171274848 extends StatelessWidget {
                         height: 200,
                         decoration: ShapeDecoration(
                           image: DecorationImage(
-                            image: NetworkImage("https://via.placeholder.com/177x200"),
+                            image: AssetImage("177x200.png"),
                             fit: BoxFit.cover,
                           ),
                           shape: RoundedRectangleBorder(
@@ -228,7 +228,7 @@ class Frame1171274848 extends StatelessWidget {
                         height: 200,
                         decoration: ShapeDecoration(
                           image: DecorationImage(
-                            image: NetworkImage("https://via.placeholder.com/177x200"),
+                            image: AssetImage("177x200.png"),
                             fit: BoxFit.fill,
                           ),
                           shape: RoundedRectangleBorder(
@@ -568,7 +568,7 @@ class Frame1171274848 extends StatelessWidget {
                         height: 199.84,
                         decoration: ShapeDecoration(
                           image: DecorationImage(
-                            image: NetworkImage("https://via.placeholder.com/177x200"),
+                            image: AssetImage("177x200.png"),
                             fit: BoxFit.fill,
                           ),
                           shape: RoundedRectangleBorder(
