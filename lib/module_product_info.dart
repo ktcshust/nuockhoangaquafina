@@ -14,7 +14,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Container(
-                width: double.infinity,
+                width: 356,
                 height: 107,
                 child: Column(
                   mainAxisSize: MainAxisSize.min,
@@ -22,7 +22,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     SizedBox(
-                      width: double.infinity,
+                      width: 356,
                       child: Text(
                         'Cute Purple Note',
                         style: TextStyle(
@@ -35,7 +35,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      width: double.infinity,
+                      width: 356,
                       child: Row(
                         mainAxisSize: MainAxisSize.min,
                         mainAxisAlignment: MainAxisAlignment.start,
@@ -235,7 +235,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      width: double.infinity,
+                      width: 356,
                       height: 45,
                       child: Column(
                         mainAxisSize: MainAxisSize.min,
@@ -243,7 +243,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           SizedBox(
-                            width: double.infinity,
+                            width: 356,
                             child: Text(
                               '00.000 ₫',
                               style: TextStyle(
@@ -256,7 +256,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            width: double.infinity,
+                            width: 356,
                             child: Row(
                               mainAxisSize: MainAxisSize.min,
                               mainAxisAlignment: MainAxisAlignment.start,
@@ -313,7 +313,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                 ),
               ),
               Container(
-                width: double.infinity,
+                width: 356,
                 height: 62,
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                 decoration: BoxDecoration(
@@ -330,7 +330,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      height: double.infinity,
+                      height: 245,
                       child: Column(
                         mainAxisSize: MainAxisSize.min,
                         mainAxisAlignment: MainAxisAlignment.start,
@@ -375,7 +375,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 222,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -387,7 +387,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 242,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -406,7 +406,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 254,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -418,7 +418,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 243,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -455,7 +455,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 30,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -467,7 +467,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 40,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -486,7 +486,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 35,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -498,7 +498,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 40,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -545,7 +545,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 40,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -557,7 +557,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 40,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -576,7 +576,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 45,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -588,7 +588,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 30,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -625,7 +625,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 44,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -637,7 +637,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 50,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -656,7 +656,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                   Opacity(
                                                     opacity: 0.70,
                                                     child: Container(
-                                                      width: double.infinity,
+                                                      width: 356,
                                                       height: 10,
                                                       clipBehavior: Clip.antiAlias,
                                                       decoration: BoxDecoration(),
@@ -668,7 +668,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                                                           Transform(
                                                             transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-0.52),
                                                             child: Container(
-                                                              width: double.infinity,
+                                                              width: 356,
                                                               decoration: ShapeDecoration(
                                                                 shape: RoundedRectangleBorder(
                                                                   side: BorderSide(
@@ -729,7 +729,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Container(
-                              width: double.infinity,
+                              width: 356,
                               child: Row(
                                 mainAxisSize: MainAxisSize.min,
                                 mainAxisAlignment: MainAxisAlignment.start,
@@ -753,7 +753,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              width: double.infinity,
+                              width: 200,
                               child: Row(
                                 mainAxisSize: MainAxisSize.min,
                                 mainAxisAlignment: MainAxisAlignment.start,
@@ -782,7 +782,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                     ),
                     Container(
                       width: 24,
-                      height: double.infinity,
+                      height: 200,
                       child: Row(
                         mainAxisSize: MainAxisSize.min,
                         mainAxisAlignment: MainAxisAlignment.end,
@@ -822,7 +822,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                 ),
               ),
               Container(
-                width: double.infinity,
+                width: 20,
                 height: 62,
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                 decoration: BoxDecoration(
@@ -846,7 +846,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Container(
-                              width: double.infinity,
+                              width: 364,
                               child: Row(
                                 mainAxisSize: MainAxisSize.min,
                                 mainAxisAlignment: MainAxisAlignment.start,
@@ -870,7 +870,7 @@ class ContentProductDetailsProductInfo extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              width: double.infinity,
+                              width: 18,
                               child: Row(
                                 mainAxisSize: MainAxisSize.min,
                                 mainAxisAlignment: MainAxisAlignment.start,
